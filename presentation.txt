@@ -3,3 +3,4 @@ Prénom : Poivre
 Age : 42 ans
 Sexe : Bois
 Taille : 21 cm
+Couleur préférée : celle du vide interstellaire
