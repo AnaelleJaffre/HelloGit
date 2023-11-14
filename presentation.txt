@@ -2,6 +2,6 @@ Nom : Del Cielo
 Prénom : Poivre
 Age : 42 ans
 Sexe : Bois
-Taille : 21 cm
+Taille : 26 cm
 Couleur préférée : celle du vide interstellaire
 Lieu de naissance : Silicon Valley
